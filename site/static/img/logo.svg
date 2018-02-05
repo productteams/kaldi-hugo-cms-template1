@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
   <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -38,7 +38,11 @@
       .cls-2 {
         font-size: 41.667px;
       }
+
+      .cls-3 {
+        font-size: 125px;
+      }
     </style>
   </defs>
-  <text id="WoodOilWax" class="cls-1" x="-5.234" y="90.723">W<tspan class="cls-2">oodOilWax</tspan></text>
+  <text id="Wood_Oil_Wax" data-name="Wood Oil Wax" class="cls-1" x="4.766" y="90.723">W<tspan class="cls-2">ood Oil <tspan class="cls-3">W</tspan>ax</tspan></text>
 </svg>
