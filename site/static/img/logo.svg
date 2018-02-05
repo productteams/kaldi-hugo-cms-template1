@@ -30,11 +30,15 @@
 <defs>
     <style>
       .cls-1 {
-        font-size: 41.667px;
+        font-size: 100px;
         font-family: "Marker Felt";
         font-weight: 200;
       }
+
+      .cls-2 {
+        font-size: 41.667px;
+      }
     </style>
   </defs>
-  <text id="WoodOilWax" class="cls-1" x="-6.234" y="64.723">WoodOilWax</text>
+  <text id="WoodOilWax" class="cls-1" x="-5.234" y="90.723">W<tspan class="cls-2">oodOilWax</tspan></text>
 </svg>
